@@ -29,7 +29,7 @@ const  Home = ()  =>{
                     </p>
                     <p>
                      The projects section showcases some of my most recent work, with images, descriptions, and links to the live sites or repositories.
-                     Each project is displayed in its own card and visitors can filter projects based on categories or technologies.
+                    
                     </p>
                 </li>
             </ol>
