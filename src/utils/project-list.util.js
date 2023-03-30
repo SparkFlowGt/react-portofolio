@@ -12,7 +12,7 @@ export const projectList=[
 
     },
     {
-        name:'MonsterFriends Search',
+        name:'RoboFriends',
         image: robo ,
         githubLink:"https://github.com/SparkFlowGt/robofriends",
         domainLink:"https://sparkflowgt.github.io/robofriends/",
