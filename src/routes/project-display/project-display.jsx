@@ -21,9 +21,9 @@ const PojectDisplay=()=>{
         <GitHub id="iconGit"
             onClick={()=>{window.open(project.githubLink)}}
         />
-        <p>
+        <p id="description">
             
-            <b>Skills:</b>{project.skills}
+            <b>Description:</b>{project.description}
         </p>
     </div>
     )

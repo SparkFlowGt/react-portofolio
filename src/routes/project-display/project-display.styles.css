@@ -23,6 +23,10 @@
     font-size: 40px;
     color: #3e497a;
   }
+
+  .project #description{
+    margin:30px;
+  }
   
   .project svg {
     font-size: 60px;
