@@ -21,7 +21,7 @@ export const projectList=[
     },
     {
         name:'The PreciousTickets',
-        image: ticket ,
+        image: ticket , 
         githubLink:"https://github.com/SparkFlowGt/the_precious_events",
         domainLink:"https://lucky-bombolone-49b552.netlify.app/", 
         description:"This project was a ticket website built with React, featuring a modern and responsive design. The website included a countdown timer, slider, and side drawer to enhance the user experience and create a sense of urgency for upcoming events. The website was optimized for all devices and was designed with a clean and simple look. Overall, this project provided a modern and user-friendly ticket-selling platform that met the needs of the business."
