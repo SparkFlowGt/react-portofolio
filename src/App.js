@@ -8,6 +8,7 @@ import ProjectDisplay from './routes/project-display/project-display';
 
 function App() {
   return (
+    
     <div className="App">
      <Router>
      <Navbar/>
