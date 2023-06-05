@@ -30,6 +30,7 @@ const  Home = ()  =>{
                     <p>
                      The projects section showcases some of my most recent work, with images, descriptions, and links to the live sites or repositories.
                     
+                    
                     </p>
                 </li>
             </ol>
