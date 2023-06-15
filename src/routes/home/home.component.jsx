@@ -10,6 +10,7 @@ const  Home = ()  =>{
             <div className='prompt'><p>Frontend Developer </p>
 
             </div>
+            
         </div>
 
         <div className='skills'>
@@ -29,7 +30,6 @@ const  Home = ()  =>{
                     </p>
                     <p>
                      The projects section showcases some of my most recent work, with images, descriptions, and links to the live sites or repositories.
-                    
                     
                     </p>
                 </li>
