@@ -13,6 +13,7 @@ const  Home = ()  =>{
             
         </div>
 
+
         <div className='skills'>
             <h1>Welcome </h1>
             <ol className='list'>
