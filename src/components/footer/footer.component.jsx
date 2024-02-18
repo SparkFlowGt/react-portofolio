@@ -20,7 +20,7 @@ const Footer = () =>{
                 }}>
                 </Email>
             </div>
-            <p>&copy; 2023 scinteietech.com</p>
+            <p>&copy; 2024 scinteietech.com</p>
         </div>
     )
 }
